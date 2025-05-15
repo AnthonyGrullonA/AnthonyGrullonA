@@ -1,16 +1,49 @@
-<h1 align="center">Hi 👋, I'm Anthony Grullon</h1>
-<h3 align="center">I am a passionate backend developer from the Dominican Republic, I am also on the part of using within the devops methodology</h3>
+# 👨‍💻 Anthony Grullón | Tech Entrepreneur & DevOps/Security Specialist
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bI3lzizcJPobWLqfEWF8JmZUtBLGDBFU/view?usp=sharing](https://drive.google.com/file/d/1bI3lzizcJPobWLqfEWF8JmZUtBLGDBFU/view?usp=sharing)
+¡Hola! Soy Anthony, un profesional de TI con una visión estratégica orientada a la innovación, la automatización y la seguridad. Combino experiencia práctica en administración de infraestructura, ciberseguridad, desarrollo backend y soluciones cloud-native, con una mentalidad emprendedora enfocada en resultados.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/k1nglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="k1nglu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-grullon-b974a2214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-grullon-b974a2214/" height="30" width="40" /></a>
-<a href="https://instagram.com/kr_loriaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr_loriaj" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 💡 ¿Quién soy?
 
+- 🔧 **Especialista en Infraestructura TI, Automatización y DevOps**
+- ☁️ **Experiencia en nubes públicas: Azure, AWS, GCP**
+- 🔐 **Foco en Seguridad de la Información, SIEMs y Gestión de Incidentes**
+- ⚙️ **Desarrollador Backend con Python, Django, Bash, y APIs REST**
+- 📊 **Interés por la Inteligencia Artificial aplicada a análisis de datos**
+- 🚀 **Apasionado por crear soluciones escalables, seguras y eficientes**
 
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+| Área                  | Tecnologías                                                |
+|-----------------------|------------------------------------------------------------|
+| **Infraestructura**   | Linux, Windows Server, VMware, Terraform, Ansible          |
+| **DevOps**            | Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI)      |
+| **Cloud**             | Azure, AWS, GCP                                            |
+| **Seguridad**         | FortiSIEM, Wazuh, XDR, SIEM, WAF, OSINT                    |
+| **Backend**           | Python, Django, FastAPI, Bash, PostgreSQL, MySQL, Redis    |
+| **Data & IA**         | Pandas, NumPy, Scikit-learn, TensorFlow, Power BI          |
+
+---
+
+## 🧠 Filosofía de trabajo
+
+> “Automatiza lo repetitivo, protege lo crítico, y documenta lo valioso.”
+
+Trabajo bajo los principios de simplicidad estructural, seguridad por diseño y mejora continua. Me interesa crear herramientas útiles, escalables, y sobre todo, sostenibles para equipos reales.
+
+---
+
+## 📫 Conéctate conmigo
+
+- 🔗 [LinkedIn](https://linkedin.com/in/tu_usuario)
+- 💻 [GitHub](https://github.com/tu_usuario)
+- 📧 grullonanthony@ejemplo.com *(reemplazar por tu correo real si deseas)*
+
+---
+
+## 🚀 ¡Bienvenido a mi GitHub!
+
+Aquí encontrarás desde pruebas de concepto técnicas y scripts de automatización, hasta sistemas completos para la empresa moderna. Siempre estoy aprendiendo y compartiendo. Si te interesa colaborar en temas de seguridad, DevOps o soluciones inteligentes, ¡contáctame!
