@@ -38,9 +38,9 @@ Trabajo bajo los principios de simplicidad estructural, seguridad por diseño y 
 
 ## 📫 Conéctate conmigo
 
-- 🔗 [LinkedIn](https://linkedin.com/in/tu_usuario)
-- 💻 [GitHub](https://github.com/tu_usuario)
-- 📧 grullonanthony@ejemplo.com *(reemplazar por tu correo real si deseas)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jairol-anthony-grullon-amparo-b974a2214/)
+- 💻 [GitHub](https://github.com/AnthonyGrullonA)
+- 📧 anthonygrulon283@gmail.com
 
 ---
 
