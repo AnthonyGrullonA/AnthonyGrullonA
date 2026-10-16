@@ -1,0 +1,30 @@
+name: Update profile art
+
+# Regenera el grafo de contribuciones y la ficha con datos reales.
+# A diario, al empujar a main y a mano. Sin token extra ni dependencias: solo python3.
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  art:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render SVGs
+        run: python3 scripts/build.py
+
+      - name: Commit si cambió algo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json contrib-heatmap.svg info-card.svg
+          git diff --cached --quiet || { git commit -m "chore: refresca el arte del perfil [skip ci]" && git push; }

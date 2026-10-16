@@ -1,49 +1,37 @@
-# 👨‍💻 Anthony Grullón | Tech Entrepreneur & DevOps/Security Specialist
+<div align="center">
 
-¡Hola! Soy Anthony, un profesional de TI con una visión estratégica orientada a la innovación, la automatización y la seguridad. Combino experiencia práctica en administración de infraestructura, ciberseguridad, desarrollo backend y soluciones cloud-native, con una mentalidad emprendedora enfocada en resultados.
+<!-- Grafo de contribuciones con datos reales; lo regenera a diario
+     .github/workflows/update-profile-art.yml (python3 scripts/build.py) -->
 
----
+<h3><code>anthony@github ~ $ ./contribuciones.sh</code></h3>
 
-## 💡 ¿Quién soy?
+<img src="./contrib-heatmap.svg" width="860" alt="Grafo de contribuciones de Anthony Grullón, actualizado a diario" />
 
-- 🔧 **Especialista en Infraestructura TI, Automatización y DevOps**
-- ☁️ **Experiencia en nubes públicas: Azure, AWS, GCP**
-- 🔐 **Foco en Seguridad de la Información, SIEMs y Gestión de Incidentes**
-- ⚙️ **Desarrollador Backend con Python, Django, Bash, y APIs REST**
-- 📊 **Interés por la Inteligencia Artificial aplicada a análisis de datos**
-- 🚀 **Apasionado por crear soluciones escalables, seguras y eficientes**
+<br>
+<br>
 
----
+<!-- Retrato (local: scripts/portrait.py) y ficha (diaria: scripts/build.py).
+     Ambos SVG miden 840x880: mismo ancho, misma altura. -->
 
-## 🛠️ Tecnologías y Herramientas
+<h3><code>anthony@github ~ $ whoami</code></h3>
 
-| Área                  | Tecnologías                                                |
-|-----------------------|------------------------------------------------------------|
-| **Infraestructura**   | Linux, Windows Server, VMware, Terraform, Ansible          |
-| **DevOps**            | Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI)      |
-| **Cloud**             | Azure, AWS, GCP                                            |
-| **Seguridad**         | FortiSIEM, Wazuh, XDR, SIEM, WAF, OSINT                    |
-| **Backend**           | Python, Django, FastAPI, Bash, PostgreSQL, MySQL, Redis    |
-| **Data & IA**         | Pandas, NumPy, Scikit-learn, TensorFlow, Power BI          |
+<table>
+<tr>
+<td valign="top"><img src="./ascii-portrait.svg" width="420" alt="Retrato ASCII de Anthony Grullón" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Ficha de Anthony Grullón: rol, stack y estadísticas de GitHub" /></td>
+</tr>
+</table>
 
----
+<br>
+<br>
 
-## 🧠 Filosofía de trabajo
+<h3><code>anthony@github ~ $ ./contacto.sh</code></h3>
 
-> “Automatiza lo repetitivo, protege lo crítico, y documenta lo valioso.”
+<p><b>Arquitecto y consultor de software · DevOps · Seguridad</b></p>
 
-Trabajo bajo los principios de simplicidad estructural, seguridad por diseño y mejora continua. Me interesa crear herramientas útiles, escalables, y sobre todo, sostenibles para equipos reales.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony_Grullón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairol-anthony-grullon-amparo-b974a2214/)
+[![Email](https://img.shields.io/badge/Email-anthonygrulon283@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonygrulon283@gmail.com)
 
----
+<br>
 
-## 📫 Conéctate conmigo
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jairol-anthony-grullon-amparo-b974a2214/)
-- 💻 [GitHub](https://github.com/AnthonyGrullonA)
-- 📧 anthonygrulon283@gmail.com
-
----
-
-## 🚀 ¡Bienvenido a mi GitHub!
-
-Aquí encontrarás desde pruebas de concepto técnicas y scripts de automatización, hasta sistemas completos para la empresa moderna. Siempre estoy aprendiendo y compartiendo. Si te interesa colaborar en temas de seguridad, DevOps o soluciones inteligentes, ¡contáctame!
+</div>
